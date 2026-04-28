@@ -58,6 +58,7 @@ while i > 6:
     print(i)
     i += 1
 '''
+
 # for loop
 
 for i in range(10):
