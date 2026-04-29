@@ -29,6 +29,8 @@ print("Tuple:" , my_tuple)
 
 # Indexing and Slicing
 
+'''
+
 text = "Python"
 
 print("First Letter:" , text[5])
@@ -49,6 +51,14 @@ print("First two students:" , students[::2])
 
 for student in students:
     print(f"Welcome , {student}")
+
+'''
+
+bread = input("Choose your Bread (white / brown):")
+filling = input("Choose your filling (Cheese / jelly / banana):")
+
+print("Here's your silly sandwich:")
+print("[" + bread + "bread + " + filling + " + rainbow glitter]")
 
 
 

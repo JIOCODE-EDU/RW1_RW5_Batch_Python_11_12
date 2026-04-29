@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Basic Fundamental Statements
 '''
 print("my name is vivek.")
@@ -74,7 +73,6 @@ else:
     print("Computer win.")
 
 
-=======
 # Python Basic Fundamental Statements
 '''
 print("my name is vivek.")
@@ -148,6 +146,3 @@ elif (player == "rock" and computer == "scissors") or \
     print("You win.")
 else:
     print("Computer win.")
-
-
->>>>>>> 9cebfe31ea19aed1f9c5b55ea5cd489ffd2efd0a
