@@ -1,7 +1,6 @@
-'''
-import pandas as pd
-print(pd.__version__)
-'''
+
+import sys
+print(sys.executable)
 
 # Built-in functions vs User defined Functions(UDF)
 
