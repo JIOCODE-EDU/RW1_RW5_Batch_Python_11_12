@@ -1,13 +1,12 @@
 # Python OOP Student Logic
-'''
+
 # Topic Covered:
-'''
 '''
 1. Class and Object
 2. self keyword
 3. del keyword
 4. Encapsulation
-'''
+
 '''
 # Class and Object
 
@@ -92,9 +91,8 @@ s2.studentData()
 # class blueprint / template
 # object real instance
 # Student()   object creation
-'''
 
-'''
+
 #  self Keyword
 
 # self refers to current object.
@@ -152,7 +150,7 @@ s1.setData()
 del s1.name
 
 print(s1.name)
-'''
+
 # Encapsulation
 
 # Hiding Data from direct access.
