@@ -104,3 +104,10 @@ matrix = [
 
 for row in matrix:
     print("Largest :" , max(row))
+
+# OOP (Object Oriented Programming)
+
+# 1. Encupsulation
+# 2. Inheritance
+# 3. Polymorphism
+# 4. Abstraction
