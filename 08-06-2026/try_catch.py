@@ -79,9 +79,9 @@ try:
 except:
 finally:
 '''
-'''
+
 try:
-    file = open("demo1.txt" , "r")
+    file = open("demo.txt" , "r")
 
     print(file.read())
 
@@ -90,9 +90,9 @@ except FileNotFoundError:
 
 finally:
     print("Program finished.")
+    file.close()
 
 #4. try.........except.......else........finally
-'''
 # Combination of all blocks.
 '''
 try:
@@ -174,7 +174,7 @@ else:
 '''
 
 #4. handeling string index error using else
-
+'''
 try:
 
     text = "Python"
@@ -189,7 +189,7 @@ except IndexError:
 else:
     print("Character :" , result)
 
-    
+ '''
 
 
 
