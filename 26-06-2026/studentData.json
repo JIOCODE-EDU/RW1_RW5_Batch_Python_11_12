@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Vivek",
+    "Age": 28,
+    "Marks": 89.0,
+    "City": "Surat",
+    "JoiningDate": "15-06-2026"
+  },
+  {
+    "Name": "Rahul",
+    "Age": 25,
+    "Marks": 78.0,
+    "City": "Ahmedabad",
+    "JoiningDate": "20-05-2025"
+  },
+  {
+    "Name": "Neha",
+    "Age": 21,
+    "Marks": 91.0,
+    "City": "Vadodara",
+    "JoiningDate": "20-06-2024"
+  },
+  {
+    "Name": "Priya",
+    "Age": 23,
+    "Marks": null,
+    "City": null,
+    "JoiningDate": "01-02-2023"
+  },
+  {
+    "Name": "Zeel",
+    "Age": 50,
+    "Marks": 89.0,
+    "City": "Rajkot",
+    "JoiningDate": "01-05-2026"
+  }
+]
